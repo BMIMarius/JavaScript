@@ -1,0 +1,2 @@
+var ultimateAnswer = 1980 / 90 * 2;
+console.log('Răspunsul la cea mai importantă întrebare despre viață, univers și tot este: ' + ultimateAnswer);

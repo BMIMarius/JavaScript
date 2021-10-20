@@ -1,0 +1,5 @@
+var studentCont = 7;
+var sumOfGrades = 5 + 5 + 3 + 5 + 4 + 2 + 2;
+
+var meanOfGrades = studentCont / sumOfGrades;
+console.log(meanOfGrades);

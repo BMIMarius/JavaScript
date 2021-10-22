@@ -7,3 +7,5 @@ function printTomatoSoupRecipe() {
     console.log('Presărați puțină brânză parmezan deasupra.');
     console.log('Serviți cu pâine ciabatta.');
 }
+
+printTomatoSoupRecipe();

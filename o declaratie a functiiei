@@ -1,0 +1,9 @@
+function printTomatoSoupRecipe() {
+    console.log('Sotați puțin usturoi și ceapă într-o cantitate mică de ulei de măsline.');
+    console.log('Puneți roșiile mărunțite în tigaie, adăugați sare și piper, apoi turnați 2 dl de apă peste.');
+    console.log('Gătiți la foc mic timp de 15-20 de minute.');
+    console.log('După ce roșiile s-au făcut, adăugați câteva crutoane, puțin ulei de măsline, câteva frunze de busuioc și puțină apă.');
+    console.log('Gătiți timp de încă 5 minute.');
+    console.log('Presărați puțină brânză parmezan deasupra.');
+    console.log('Serviți cu pâine ciabatta.');
+}

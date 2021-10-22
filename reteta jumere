@@ -1,0 +1,8 @@
+function printJumereIngrediente() {
+  console.log('1,5 kg tablă de slănină fără șoric (cu sau fără inserții de carne)');
+console.log('1 sticlă de 500 ml de bere blondă');
+console.log('10-15 căței de usturoi');
+console.log('1 linguriță rasă de cimbru uscat');
+}
+
+printJumereIngrediente();
